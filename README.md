@@ -1,7 +1,7 @@
 # Smart IoT Lab
 
 **An integrated, cloud-backed IoT platform for academic electronics laboratories.**  
-Automates lab entry, lighting, workstation management, and component lending — with ML-verified returns.
+Automates lab entry, lighting, workstation management, and component lending — with ML-verified output.
 
 ---
 
